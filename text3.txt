@@ -1,1 +1,2 @@
 Hello there mate. This is text file 3.
+And updated again
